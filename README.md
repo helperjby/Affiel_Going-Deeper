@@ -1,4 +1,4 @@
-# Affiel_Going-Deeper
+# Affiel_Going-Deeper_NLP-study
 |No|프로젝트 주제|핵심이론|
 |---|---|---|
 |1-1|텍스트 데이터 다루기|다양한 텍스트 데이터 전처리 기법과 Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습|
